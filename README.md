@@ -55,7 +55,7 @@ documentation).
 ```sh
 # python
 export PYTHONSTARTUP=~/.python/pythonrc.py
-export PYTHON_HISTORY_FILE=~/.python/.python_history
+export PYTHON_HISTORY_FILE=~/.python/python_history
 
 ## You may want to also uncomment some of this lines if using and old
 ## version of virtualenvwrapper
@@ -68,7 +68,7 @@ export PYTHON_HISTORY_FILE=~/.python/.python_history
 ```
 [general]
 color_scheme = default
-hist_file = ~/.python/.python_history
+hist_file = ~/.python/python_history
 hist_lenght = 1000
 ```
 

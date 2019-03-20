@@ -57,7 +57,7 @@ consulte la documentación de BPython).
 ```sh
 # python
 export PYTHONSTARTUP=~/.python/pythonrc.py
-export PYTHON_HISTORY_FILE=~/.python/.python_history
+export PYTHON_HISTORY_FILE=~/.python/python_history
 
 ## Podría querer "descomentar" también estas líneas si usa una versión
 ## antigua de virtualenvwrapper
@@ -70,7 +70,7 @@ export PYTHON_HISTORY_FILE=~/.python/.python_history
 ```
 [general]
 color_scheme = default
-hist_file = ~/.python/.python_history
+hist_file = ~/.python/python_history
 hist_lenght = 1000
 ```
 
